@@ -11,7 +11,7 @@ echo 'eval "$(rbenv init --no-rehash -)"' >> ~/.bashrc
 ```
 
 
-### 使用rbenv方法
+### rbenv
 
 ```sh
 # 查看安装的所有rbenv版本
